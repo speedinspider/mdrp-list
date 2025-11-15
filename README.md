@@ -1,3 +1,3 @@
 # mdrp-list
-wellcheese's dump of scripts
+wellcheese's solution & raw script repo
 **do not use these for malicious purposes**
